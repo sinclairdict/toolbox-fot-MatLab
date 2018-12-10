@@ -6,3 +6,4 @@ VMD-变分模态分解
 CEEMDAN-完备聚合经验模态分解    
 EWT-经验小波分解  
 SampEn-样本熵  
+ShannonEn-香农熵  
